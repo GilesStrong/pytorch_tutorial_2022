@@ -1,0 +1,11 @@
+# User requirements
+# ipykernel
+
+# Dev requirements
+pre-commit
+black==22.3.0
+flake8
+mypy
+# pytest
+# pytest-mock
+# flaky
