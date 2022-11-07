@@ -1,8 +1,10 @@
-name: pkg_name
+name: pytorch_tutorial_2022
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python==3.8
   - pip
-  # - ipykernel
+  - ipykernel
+  - torch
+  - numpy
