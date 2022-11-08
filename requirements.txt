@@ -2,3 +2,5 @@
 ipykernel
 torch
 numpy
+matplotlib
+seaborn
