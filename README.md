@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7318036.svg)](https://doi.org/10.5281/zenodo.7318036))
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7318036.svg)](https://doi.org/10.5281/zenodo.7318036)
 
 # PyTorch Tutorial 2022
 
